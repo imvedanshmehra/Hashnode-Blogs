@@ -1,4 +1,14 @@
-# Difference between useMemo and useCallback
+---
+title: "Difference between useMemo and useCallback"
+seoTitle: "What is the difference between useMemo and useCallback hook in React?"
+seoDescription: "In this blog, I have talked about what is the difference between useMemo and useCallback and when to use one over another."
+datePublished: Fri Feb 17 2023 11:53:36 GMT+0000 (Coordinated Universal Time)
+cuid: cle8h2wgv000w09mqa0v66ap6
+slug: difference-between-usememo-and-usecallback
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681822368533/22801d24-9f3b-4fe4-b9bf-026169bbf39d.png
+tags: reactjs, hashnode, hooks
+
+---
 
 Re-render is at the heart of React applications, Re-render happens when React components need to update the UI with new data. But there are times when some unnecessary re-renders can decrease the overall performance of the application. React has some in-built tools to prevent these unnecessary rerenders - `useMemo` and `useCallback`. Both of these hooks are used to reduce the re-render of a react app.
 
