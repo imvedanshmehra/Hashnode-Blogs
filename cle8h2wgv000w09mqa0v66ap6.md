@@ -5,7 +5,7 @@ seoDescription: "In this blog, I have talked about what is the difference betwee
 datePublished: Fri Feb 17 2023 11:53:36 GMT+0000 (Coordinated Universal Time)
 cuid: cle8h2wgv000w09mqa0v66ap6
 slug: difference-between-usememo-and-usecallback
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681822368533/22801d24-9f3b-4fe4-b9bf-026169bbf39d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681822463962/e1764920-2ac5-4047-b324-f8cd85d49b9f.png
 tags: reactjs, hashnode, hooks
 
 ---
