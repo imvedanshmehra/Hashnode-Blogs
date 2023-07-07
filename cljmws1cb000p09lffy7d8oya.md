@@ -257,7 +257,7 @@ Now as our app is working perfectly fine locally, it's time to deploy our Node s
 
 To deploy the application on Railway, we first need to push the code to GitHub. I am assuming that you already know how to push the code to GitHub so I am not going to cover that in this article but make sure that you add `.env` file and `node_modules` to `.gitignore` so that you don't accidentally push these two files on GitHub.
 
-> You can read more about the `.gitignore` file here.
+> You can read more about the `.gitignore` file [here](https://git-scm.com/docs/gitignore).
 
 Once you have pushed the code on GitHub, let's go back to the Railway dashboard and create a new project and this time choose **"Deploy from Github repo"** from the given options.
 
